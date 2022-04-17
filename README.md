@@ -1,2 +1,2 @@
-# Nes-Configs
+# New-Configs
 Nuevas configuraciones competitivas
